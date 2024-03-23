@@ -1,0 +1,10 @@
+ git init
+ git status
+ git add.
+ git status
+ git commit -m "Created Read Me" -m "Second Repo"
+ git status
+ git push origin master
+ Create an empty repo on Github
+ git remote add origin "URLto repo"
+ git push -u origin master
