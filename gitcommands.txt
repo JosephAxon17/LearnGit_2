@@ -8,3 +8,7 @@
  Create an empty repo on Github
  git remote add origin "URLto repo"
  git push -u origin master
+ git push --set-upstream origin name
+ branch checkout Master
+ git pull origin master
+ git branch -d name
