@@ -7,6 +7,9 @@
  git push origin master
  Create an empty repo on Github
  git remote add origin "URLto repo"
+ 
+ Create a new branch
+ git checkout -b name
  git push -u origin master
  git push --set-upstream origin name
  branch checkout Master
