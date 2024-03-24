@@ -1,5 +1,6 @@
 
- git clone ssh/url 
+ git clone ssh/url
+ git push url 
 ----------------------------------------------------- 
  git init
  git status
